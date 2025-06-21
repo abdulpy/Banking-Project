@@ -9,7 +9,7 @@ while True:
         break
     elif(userchoice<target):
         print("Number is small")
-        # print("My Gussing number is: ",target)
+        print("My Gussing number is: ",target)
     else:
         print("Number is Big")
 
